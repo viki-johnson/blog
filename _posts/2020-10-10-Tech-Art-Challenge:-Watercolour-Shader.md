@@ -5,7 +5,7 @@ date: '2020-10-10 00:09:00 +0300'
 description: >-
   You’ll find this post in your `_posts` directory. Go ahead and edit it and
   re-build the site to see your changes.
-img: 2020-10-10-00.jpg
+img: 2020-10-10-00.png
 tags:
   - unity3d
   - 3d modelling
