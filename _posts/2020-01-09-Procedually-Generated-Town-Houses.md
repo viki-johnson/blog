@@ -20,9 +20,9 @@ As I continued to learn more about Unity last Autumn, I stumbled upon mesh gener
 
 I began by going through Cat Like Coding’s Tutorial on Mesh Generation, which teaches the basics of creating planes, and cubes and rounded corners. Then I did Oli Carson’s Udemy course on procedual generation, to create a race track. Together both of these gave me a good, basic understanding of how to create planes, and plot vectors to build basic models.
 
-<center>
+{:refdef: style="text-align: center;"}
 ![ ]({{site.baseurl}}/assets/img/2020-01-09-01.png)
-</center>
+{: refdef}
 
 Earlier in the year I had discovered three.js and built a little townhouse, by plotting a lot of box geometry. So I set myself the task of recreating this in Unity, and adding some randomness, to make a whole street of little houses.
 
