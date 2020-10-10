@@ -1,12 +1,18 @@
 ---
 published: false
 ---
-## A New Post
+---
+published: true
+---
+
+## Procedually Generated Town Houses
 
 As I continued to learn more about Unity last Autumn, I stumbled upon mesh generation, a way of procedually generating simple levels and models without using a 3D modelling programme. Procedual generation, by itself, allows developers to create random level after level as the data for it is created algorithmically instead of manually. 
 
 I began by going through Cat Like Coding’s Tutorial on Mesh Generation, which teaches the basics of creating planes, and cubes and rounded corners. Then I did Oli Carson’s Udemy course on procedual generation, to create a race track. Together both of these gave me a good, basic understanding of how to create planes, and plot vectors to build basic models.
-Image
+
+![1425735946cd29e3249c1494f052a5d180d91152.png]({{site.baseurl}}/_posts/1425735946cd29e3249c1494f052a5d180d91152.png)
+
 
 Earlier in the year I had discovered three.js and built a little townhouse, by plotting a lot of box geometry. So I set myself the task of recreating this in Unity, and adding some randomness, to make a whole street of little houses.
 Image
