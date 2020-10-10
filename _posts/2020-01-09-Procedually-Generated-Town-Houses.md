@@ -20,12 +20,15 @@ As I continued to learn more about Unity last Autumn, I stumbled upon mesh gener
 
 I began by going through Cat Like Coding’s Tutorial on Mesh Generation, which teaches the basics of creating planes, and cubes and rounded corners. Then I did Oli Carson’s Udemy course on procedual generation, to create a race track. Together both of these gave me a good, basic understanding of how to create planes, and plot vectors to build basic models.
 
+<center>
 ![ ]({{site.baseurl}}/assets/img/2020-01-09-01.png)
-
+</center>
 
 Earlier in the year I had discovered three.js and built a little townhouse, by plotting a lot of box geometry. So I set myself the task of recreating this in Unity, and adding some randomness, to make a whole street of little houses.
 
+<center>
 ![ ]({{site.baseurl}}/assets/img/2020-01-09-02.png)
+</center>
 
 I sketched quite a lot through this, to try and work out the best way to construct the houses. They’re based various Victorian townhouses around the UK, if I look down the street I live on (an 1870s terrace), I can see houses of so many heights and styles, so the varying floors and steps is actually quite accurate. I gave all the houses either two or three floors, and between two and eight steps to give a softer randomness.
 
