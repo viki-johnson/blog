@@ -11,7 +11,8 @@ site-twitter: alittleredpanda #if your site has a twitter account, enter it here
 # Author Settings
 author: Viki Johnson # add your name
 author-img: profilepic.png # add your photo
-about-author: I work as a programmer, building augmented reality software in the south west of England. In my spare time, I make little video games (taking part in lots of game jams), and love drawing and creating digital art.  # add description
+about-author: Hey, I'm a programmer, developer and illustrator. I love making games and other lovely digital things.
+Here is [my webiste](viki-johnson.github.io/). One day I'll make this blog look the same as that # add description
 social-twitter: alittlredpanda # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: viki-johnson # add your Github handle
