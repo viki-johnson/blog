@@ -1,4 +1,17 @@
 ---
+layout: post
+title: Procedually Generated Town Houses
+date: '2020-01-09 00:09:00 +0300'
+description: >-
+  You’ll find this post in your `_posts` directory. Go ahead and edit it and
+  re-build the site to see your changes.
+img: 2010-01-09-00.jpg
+tags:
+  - unity3d
+  - 3d modelling
+  - proc gen
+  - learning tech art
+  - learning unity
 published: true
 ---
 ## Procedually Generated Town Houses
