@@ -27,7 +27,7 @@ I began by going through Cat Like Coding’s Tutorial on Mesh Generation, which 
 Earlier in the year I had discovered three.js and built a little townhouse, by plotting a lot of box geometry. So I set myself the task of recreating this in Unity, and adding some randomness, to make a whole street of little houses.
 
 {:refdef: style="text-align: center;"}
-![ ]({{site.baseurl}}/assets/img/2020-01-09-02.png)
+![ ]({{site.baseurl}}/assets/img/2020-01-09-02.jpg)
 {: refdef}
 
 I sketched quite a lot through this, to try and work out the best way to construct the houses. They’re based various Victorian townhouses around the UK, if I look down the street I live on (an 1870s terrace), I can see houses of so many heights and styles, so the varying floors and steps is actually quite accurate. I gave all the houses either two or three floors, and between two and eight steps to give a softer randomness.
