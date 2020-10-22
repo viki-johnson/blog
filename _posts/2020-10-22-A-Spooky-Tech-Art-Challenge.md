@@ -12,8 +12,6 @@ tags:
   - challenges
 published: true
 ---
-# A Spooky Tech Art Challenge 
-
 
 Initially I wasn’t very keen on this fortnight’s theme of “replication” for the Tech Art Challenge. It was a little bit too open, I had an idea of copying the “swimming through swamp water effect” from The Last of Us 2, but then, at work, we were discussing games with different effects and Perception came up.
 
