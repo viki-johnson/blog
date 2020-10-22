@@ -22,7 +22,7 @@ Perception is a survival horror game, made by The Deep End Games in 2017. And th
 The view the player has is a very ghostly blue vision, adding to the eerie atmosphere of this New England mansion.
 
 {:refdef: style="text-align: center;"}
-![ ]({{site.baseurl}}/assets/img/2020-10-22-01.png)
+![ ]({{site.baseurl}}/assets/img/2020-10-22-01.jpg)
 {: refdef}
 
 I haven’t actually played Perception, but from watching some videos of the gameplay I had a pretty good idea of how this was done, or rather how I would do it. I had made post processing shaders before that use depth, or distance from a set point to transition between two camera views, so that’s where I started.
